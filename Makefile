@@ -4,10 +4,10 @@
 DOCNAME = UCDlist
 
 # count up; you probably do not want to bother with versions <1.0
-DOCVERSION = 1.5
+DOCVERSION = 1.6
 
 # Publication date, ISO format; update manually for "releases"
-DOCDATE = 2023-01-25
+DOCDATE = 2024-12-18
 
 # What is it you're writing: NOTE, WD, PR, REC, PEN, or EN
 DOCTYPE = EN
